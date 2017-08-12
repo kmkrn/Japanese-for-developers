@@ -33,5 +33,12 @@ modem モデム
 Ethernet イーサネット  
 Ethernet Cable LANランケーブル    
 WiFi ワイファイ, WiFi   
-online オンライン  
-offline オフライン
+online オンライン    
+offline オフライン   
+IP address アイピーアドレス   
+host name ホストめい   
+port number ポートばんごう   
+server サーバ  
+client クライアント   
+
+
